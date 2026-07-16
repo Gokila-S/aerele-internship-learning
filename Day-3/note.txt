@@ -1,0 +1,4 @@
+One reusable operation      	Function        	calculate_area(radius)
+Related utility functions	    Module	            math_utils.py, file_utils.py
+Object with state + behavior	Class	            Student, BankAccount, Invoice
+Shared reusable capability	    Mixin	            LoggerMixin, PrintableMixin
