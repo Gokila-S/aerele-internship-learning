@@ -1,0 +1,26 @@
+    Write Code
+        ↓
+    git add .
+        ↓
+    Pre-commit Hook Runs
+        ↓
+    If everything passes ✔
+        ↓
+    git commit
+
+    OR
+
+    If something fails ❌
+        ↓
+    Commit is blocked
+
+
+    What Can a Pre-commit Hook Run?
+
+It can automatically run tools like:
+    Ruff (Linting)
+    Ruff Formatter
+    pytest
+    Black (Formatter)
+    mypy (Type Checking)
+    Any custom script
