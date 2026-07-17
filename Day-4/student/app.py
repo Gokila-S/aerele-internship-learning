@@ -1,7 +1,7 @@
 #Only handles user interaction
 
-from api import add_student
-from repo import get_students
+from sms.api import add_student
+from sms.repo import get_students
 
 name = input("Enter name: ")
 age = int(input("Enter age: "))
