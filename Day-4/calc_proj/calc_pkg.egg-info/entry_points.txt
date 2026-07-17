@@ -1,0 +1,2 @@
+[console_scripts]
+mycalc = calc_pkg.main:main

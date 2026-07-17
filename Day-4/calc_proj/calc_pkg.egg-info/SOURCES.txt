@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+calc_pkg/__init__.py
+calc_pkg/calc.py
+calc_pkg/main.py
+calc_pkg.egg-info/PKG-INFO
+calc_pkg.egg-info/SOURCES.txt
+calc_pkg.egg-info/dependency_links.txt
+calc_pkg.egg-info/entry_points.txt
+calc_pkg.egg-info/top_level.txt

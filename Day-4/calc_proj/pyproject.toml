@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calc_pkg"
+version = "1.0.0"
+description = "Simple Calculator Package"
+authors = [
+    {name = "Gokila"}
+]
+
+[project.scripts]
+mycalc = "calc_pkg.main:main"
