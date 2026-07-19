@@ -1,4 +1,7 @@
 import sys
+import demo
+import demo
+import demo 
 
 print("Main")
 
