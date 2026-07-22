@@ -1,6 +1,7 @@
 class Team:
     def __len__(self):
-         return 5
+          return 5
+    pass
 
 team = Team()
 

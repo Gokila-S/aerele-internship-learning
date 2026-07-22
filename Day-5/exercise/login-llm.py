@@ -8,4 +8,4 @@ def login(user):
 
 print(login({"username": "Goki", "password": "admin123"}))
 print(login({"username": "Goki", "password": "12345"}))
-print(login({"username": "Goki"}))  
+print(login({"username": "Goki"}))
